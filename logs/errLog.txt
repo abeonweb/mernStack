@@ -1,0 +1,6 @@
+20230428	19:51:54	e3991632-39f3-4103-a623-3d946e8bd879	Error: Not allowed by CORS
+20230428	19:51:54	000553fe-ad54-49b4-816f-87953580d575	Error: Not allowed by CORS
+20230429	01:07:21	f27b871e-3fbb-47c7-95cc-88e14ecd7fea	Error: ENOENT: no such file or directory, stat 'C:\Users\abiod\OneDrive\Desktop\WebDevs\Node Tutorial\08routing\views\subdir\test.html'
+20230429	01:07:21	251d1f17-4c20-4a39-a565-1174cdaf7eb8	Error: ENOENT: no such file or directory, stat 'C:\Users\abiod\OneDrive\Desktop\WebDevs\Node Tutorial\08routing\views\subdir\test.html'
+20230504	10:58:50	e7fb8662-5cef-42e2-9e32-39c580c78fb9	Error: Cannot set headers after they are sent to the client
+20230504	14:58:17	8cc9d08f-c9ca-4c3a-973f-c4ad15381a12	Error: Cannot set headers after they are sent to the client
